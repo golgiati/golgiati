@@ -8,5 +8,5 @@ Hi, I’m Gustavo Olgiati, a web developer and designer. I am passionate about s
 - **Design Software**: Adobe Photoshop, Illustrator, Premiere, inDesign, and After Effects.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme.stats.vercel.app/api?username=golgiati&show_icon=true)
+[![GitHub Stats](https://github-readme.stats.vercel.app/api?username=golgiati&show_icon=true)](https://github-readme-streak-stats.herokuapp.com/?user=golgiati)
 
