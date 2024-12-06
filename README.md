@@ -11,6 +11,9 @@ Hi, I’m Gustavo Olgiati, a web developer and designer. I am passionate about s
   <a href="https://www.behance.net/golgiati07aa">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white alt="Behance Badge"/>
   </a>
+  <a href="https://codepen.io/golgiati">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white alt="CodePen Badge"/>
+  </a>  
 </div>
 
 ## Skills
