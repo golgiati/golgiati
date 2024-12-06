@@ -10,8 +10,3 @@ Hi, I’m Gustavo Olgiati, a web developer and designer. I am passionate about s
 ## GitHub Stats
 ![GitHub Stats](https://github-readme.stats.vercel.app/api?username=golgiati&show_icon=true)
 
-## Table
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
