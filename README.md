@@ -10,3 +10,7 @@ Hi, I’m Gustavo Olgiati, a web developer and designer. I am passionate about s
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=golgiati)](https://git.io/streak-stats)
 
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golgiati)](https://github.com/anuraghazra/github-readme-stats)
+
+
